@@ -12,17 +12,27 @@ Database: Powered by PostgreSQL via Entity Framework Core (EF Core) using code-f
 
 ## **Main Features**
 Role-Based Access Control (RBAC): Distinct dashboards and features for Admin, Teacher, and Student.
+
 Class & Subject Management: Admins can structure classes, sections, and assign subjects.
+
 Assignment Workflow: Teachers can create, publish, and track assignments per class, admin can see asignment workflow.
+
 Student Submissions: Students can submit answers, track status (Submitted / Late), and view grades.
+
 Grading & Feedback System: Teachers can grade student submissions and provide detailed feedback.
+
 Application Settings: Global configuration toggles (e.g., allowing or restricting late submissions).
+
 
 ## **Technology Stack**
 Backend: ASP.NET Core 8.0 (Web API)
+
 Database: PostgreSQL (using Entity Framework Core)
+
 Authentication: Login, JWT-based authentication, and role-based authorization
+
 Testing: xUnit, FluentAssertions, Microsoft.EntityFrameworkCore.InMemory
+
 Frontend: Next.js, React, TypeScript,
 
 ## **Backend (asp.net core web API) Structure**
