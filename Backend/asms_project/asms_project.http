@@ -1,0 +1,6 @@
+@asms_project_HostAddress = http://localhost:5263
+
+GET {{asms_project_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

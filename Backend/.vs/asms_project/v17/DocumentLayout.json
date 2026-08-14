@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\.env.example||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FFAA33-4F38-4391-B9FB-3320ED6A8950}|asms_project\\asms_project.Tests\\asms_project.Tests.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\asms_project.tests\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8FFAA33-4F38-4391-B9FB-3320ED6A8950}|asms_project\\asms_project.Tests\\asms_project.Tests.csproj|solutionrelative:asms_project\\asms_project.tests\\studentcontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68B09BFE-2A9A-4685-99F8-22EBC737E105}|asms_project\\asms_project.csproj|solutionrelative:asms_project\\models\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8FFAA33-4F38-4391-B9FB-3320ED6A8950}|asms_project\\asms_project.Tests\\asms_project.Tests.csproj|d:\\idb course backup file\\unuse code remove\\v11 api- test - copy\\backend\\asms_project\\asms_project.tests\\asms_project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8FFAA33-4F38-4391-B9FB-3320ED6A8950}|asms_project\\asms_project.Tests\\asms_project.Tests.csproj|solutionrelative:asms_project\\asms_project.tests\\asms_project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.gitignore",
+              "RelativeDocumentMoniker": "asms_project\\.gitignore",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.gitignore",
+              "RelativeToolTip": "asms_project\\.gitignore",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCkAAAAEAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2026-08-14T11:37:07.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Program.cs",
+              "RelativeDocumentMoniker": "asms_project\\Program.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Program.cs",
+              "RelativeToolTip": "asms_project\\Program.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAgwKsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-14T11:32:47.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".env.example",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.env.example",
+              "RelativeDocumentMoniker": "asms_project\\.env.example",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.env.example",
+              "RelativeToolTip": "asms_project\\.env.example",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-14T11:32:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".env",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.env",
+              "RelativeDocumentMoniker": "asms_project\\.env",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\.env",
+              "RelativeToolTip": "asms_project\\.env",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-14T11:31:58.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "asms_project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "asms_project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T14:02:46.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\User.cs",
+              "RelativeDocumentMoniker": "asms_project\\Models\\User.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\User.cs",
+              "RelativeToolTip": "asms_project\\Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAywCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T14:02:39.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "asms_project\\Models\\Class.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\Class.cs",
+              "RelativeToolTip": "asms_project\\Models\\Class.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T14:02:32.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\Assignment.cs",
+              "RelativeDocumentMoniker": "asms_project\\Models\\Assignment.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Models\\Assignment.cs",
+              "RelativeToolTip": "asms_project\\Models\\Assignment.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvy4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T14:02:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "asms_project\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "asms_project\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAIBJwFYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T13:58:52.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "asms_project.Tests.csproj",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\asms_project.Tests\\asms_project.Tests.csproj",
+              "RelativeDocumentMoniker": "asms_project\\asms_project.Tests\\asms_project.Tests.csproj",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\asms_project.Tests\\asms_project.Tests.csproj",
+              "RelativeToolTip": "asms_project\\asms_project.Tests\\asms_project.Tests.csproj",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwBIAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-13T13:36:52.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentControllerTests.cs",
+              "DocumentMoniker": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\asms_project.Tests\\StudentControllerTests.cs",
+              "RelativeDocumentMoniker": "asms_project\\asms_project.Tests\\StudentControllerTests.cs",
+              "ToolTip": "D:\\IDB Course Backup File\\Unuse Code remove\\V11 API- Test - Copy\\Backend\\asms_project\\asms_project.Tests\\StudentControllerTests.cs",
+              "RelativeToolTip": "asms_project\\asms_project.Tests\\StudentControllerTests.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAowDQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T13:34:26.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

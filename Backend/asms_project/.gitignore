@@ -1,0 +1,59 @@
+## ==========================================
+## Environment & Secret Files (CRITICAL)
+## ==========================================
+.env
+*.env.local
+*.env.development
+*.env.production
+appsettings.Secrets.json
+appsettings.Local.json
+
+# DO NOT ignore the environment example template
+!.env.example
+
+## ==========================================
+## .NET / C# Build Outputs & Cache
+## ==========================================
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+## ==========================================
+## Visual Studio Files
+## ==========================================
+.vs/
+.vscode/
+*.suo
+*.user
+*.userprefs
+*.launchSettings.json.user
+*.DotSettings.user
+
+## ==========================================
+## Entity Framework & Local Database Tooling
+## ==========================================
+*.sqlite
+*.sqlite-journal
+*.db
+*.db-journal
+
+## ==========================================
+## Testing & Coverage Reports
+## ==========================================
+TestResults/
+*.trx
+coverage/
+*.coverage
+*.coveragexml
+
+## ==========================================
+## Operating System Temp Files
+## ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
