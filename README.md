@@ -1,3 +1,4 @@
+
 # 📝 **Project Overview**
 Assignment & Student Management System (ASMS) is a full-stack web application designed to streamline academic workflows for educational institutes. It provides dedicated role-based portals for Admins, Teachers, and Students to manage classes, subjects, assignments, submissions, and grading.
 
@@ -34,6 +35,35 @@ Authentication: Login, JWT-based authentication, and role-based authorization
 Testing: xUnit, FluentAssertions, Microsoft.EntityFrameworkCore.InMemory
 
 Frontend: Next.js, React, TypeScript,
+
+
+## 🚀 Live Demo
+
+**Frontend:**  
+https://your-vercel-site.vercel.app
+
+**Backend API:**  
+https://hosting-asms-api.onrender.com
+
+
+## 🔐 Demo Credentials
+
+You can use the following accounts to test the application.
+
+### Admin
+- **Email:** admin@school.test
+- **Password:** Admin@123
+
+### Teacher
+- **Email:** teacher@school.test
+- **Password:** Teacher@123
+
+### Student
+- **Email:** student@school.test
+- **Password:** Student@123
+
+> These credentials are provided for demonstration and testing purposes only.
+
 
 ## **Backend (asp.net core web API) Structure**
 
