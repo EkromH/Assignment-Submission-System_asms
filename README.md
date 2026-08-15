@@ -40,7 +40,7 @@ Frontend: Next.js, React, TypeScript,
 ## 🚀 Live Demo
 
 **Frontend:**  
-[https://your-vercel-site.vercel.app](https://asms-frontend-inky.vercel.app/)
+https://asms-frontend-inky.vercel.app/
 
 **Backend API:**  
 https://hosting-asms-api.onrender.com
