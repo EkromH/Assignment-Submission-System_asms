@@ -59,9 +59,17 @@ You can use the following accounts to test the application.
 ### Student
 - **Email:** student@school.test
 - **Password:** Student@123
-
 > These credentials are provided for demonstration and testing purposes only.
 
+## 🔄 System workflow
+### Admin
+→ Manage Students & Teachers → Create Classes & Subjects → Map Subjects to Classes → Assign Teachers to Classes & Subjects → Monitor all system activities and workflows from the Dashboard
+
+### Teacher
+→ View Assigned Classes & Subjects → Create Subject-wise Assignments → Publish / Unpublish Assignments → View Student Submissions → Grade / Mark Submitted Assignments
+
+### Student
+→ Access Assignments for Their Enrolled Class Only → View Published Assignments → Submit Answers → View Grades / Marks
 
 ## **Backend (asp.net core web API) Structure**
 
