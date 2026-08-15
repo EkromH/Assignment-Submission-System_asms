@@ -40,7 +40,7 @@ Frontend: Next.js, React, TypeScript,
 ## 🚀 Live Demo
 
 **Frontend:**  
-https://your-vercel-site.vercel.app
+[https://your-vercel-site.vercel.app](https://asms-frontend-inky.vercel.app/)
 
 **Backend API:**  
 https://hosting-asms-api.onrender.com
@@ -53,11 +53,9 @@ You can use the following accounts to test the application.
 ### Admin
 - **Email:** admin@school.test
 - **Password:** Admin@123
-
 ### Teacher
 - **Email:** teacher@school.test
 - **Password:** Teacher@123
-
 ### Student
 - **Email:** student@school.test
 - **Password:** Student@123
