@@ -1,6 +1,6 @@
 
 # 📝 **Project Overview**
-Assignment & Student Management System (ASMS) is a full-stack web application designed to streamline academic workflows for educational institutes. It provides dedicated role-based portals for Admins, Teachers, and Students to manage classes, subjects, assignments, submissions, and grading.
+Assignment & Submission Management System (ASMS) is a full-stack web application designed to streamline academic workflows for educational institutes. It provides dedicated role-based portals for Admins, Teachers, and Students to manage classes, subjects, assignments, submissions, and grading.
 
 Backend: Built with ASP.NET Core 8.0 (Web API) following RESTful principles. It handles authentication, role-based authorization, request validation, and core business logic for user management and grading workflows.
 
